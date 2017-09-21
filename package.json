@@ -1,0 +1,11 @@
+{
+  "name": "route-isochrone",
+  "version": "0.0.1",
+  "description": "Generate merged isochrones for stops along transit route(s)",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@turf/turf": "^4.7.3",
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
