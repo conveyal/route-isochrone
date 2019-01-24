@@ -6,6 +6,7 @@
   "license": "MIT",
   "dependencies": {
     "@turf/turf": "^4.7.3",
-    "isomorphic-fetch": "^2.2.1"
+    "isomorphic-fetch": "^2.2.1",
+    "csv": "^5.1.1"
   }
 }
